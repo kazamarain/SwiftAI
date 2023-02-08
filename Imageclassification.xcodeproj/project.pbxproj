@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9D2E4892299397C200D93587 /* MobileNetV2.mlpackage in Sources */ = {isa = PBXBuildFile; fileRef = 9D2E4891299397C200D93587 /* MobileNetV2.mlpackage */; };
 		9D33F3A829939365005C1D76 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D33F3A729939365005C1D76 /* AppDelegate.swift */; };
 		9D33F3AA29939365005C1D76 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D33F3A929939365005C1D76 /* SceneDelegate.swift */; };
 		9D33F3AC29939365005C1D76 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D33F3AB29939365005C1D76 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9D2E4891299397C200D93587 /* MobileNetV2.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = MobileNetV2.mlpackage; sourceTree = "<group>"; };
 		9D33F3A429939365005C1D76 /* Imageclassification.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Imageclassification.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D33F3A729939365005C1D76 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9D33F3A929939365005C1D76 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				9D33F3B029939368005C1D76 /* Assets.xcassets */,
 				9D33F3B229939368005C1D76 /* LaunchScreen.storyboard */,
 				9D33F3B529939368005C1D76 /* Info.plist */,
+				9D2E4891299397C200D93587 /* MobileNetV2.mlpackage */,
 			);
 			path = Imageclassification;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				9D33F3AC29939365005C1D76 /* ViewController.swift in Sources */,
 				9D33F3A829939365005C1D76 /* AppDelegate.swift in Sources */,
 				9D33F3AA29939365005C1D76 /* SceneDelegate.swift in Sources */,
+				9D2E4892299397C200D93587 /* MobileNetV2.mlpackage in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
